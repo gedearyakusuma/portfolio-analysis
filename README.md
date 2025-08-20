@@ -1,4 +1,4 @@
-**Pizza Sales Analysis 2015 (Excel Dashboard)**
+## Pizza Sales Analysis 2015 (Excel Dashboard)
 
 Project ini berfokus pada analisis data penjualan pizza menggunakan **Excel Pivot Table** dan **Dashboard Interaktif**.  
 Tujuannya adalah untuk memahami performa penjualan, tren, serta memberikan insight bisnis yang berguna.
