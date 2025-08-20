@@ -15,4 +15,4 @@ Tujuannya adalah untuk memahami performa penjualan, tren, serta memberikan insig
 **Isi Project**
 - `pizza_sales.xlsx` → File analisis & dashboard (Pivot Table & Chart)  
 - `pizza_sales_raw.xlsx` → Dataset 
-- `presentation/` → Presentasi hasil analisis (PDF)  
+- `Report Pizza Sales.pdf` → Presentasi hasil analisis (PDF)  
