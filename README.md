@@ -14,6 +14,6 @@ Tujuannya adalah untuk memahami performa penjualan, tren, serta memberikan insig
 7. **Bagaimana pendapatan pizza berdasarkan kategori dan ukuran pizza?**
 ---
 ## Isi Project
-- `pizza_sales.xlsx` → Dataset mentah  
-- `pizza_sales_raw.xlsx` → File analisis & dashboard (Pivot Table & Chart)  
+- `pizza_sales.xlsx` → File analisis & dashboard (Pivot Table & Chart)  
+- `pizza_sales_raw.xlsx` → Dataset mentah 
 - `presentation/` → Presentasi hasil analisis (PDF)  
