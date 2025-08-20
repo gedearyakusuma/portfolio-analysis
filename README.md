@@ -16,4 +16,4 @@ Tujuannya adalah untuk memahami performa penjualan, tren, serta memberikan insig
 ## Isi Project
 - `pizza_sales.xlsx` → Dataset mentah  
 - `pizza_sales_raw.xlsx` → File analisis & dashboard (Pivot Table & Chart)  
-- `presentation/` → Presentasi hasil analisis (PPT)  
+- `presentation/` → Presentasi hasil analisis (PDF)  
