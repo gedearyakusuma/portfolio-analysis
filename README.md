@@ -13,7 +13,7 @@ Tujuannya adalah untuk memahami performa penjualan, tren, serta memberikan insig
 6. **Bagaimana tren pendapatan dari waktu ke waktu?**
 7. **Bagaimana pendapatan pizza berdasarkan kategori dan ukuran pizza?**
 ---
-## 📂 Isi Project
+## Isi Project
 - `pizza_sales.xlsx` → Dataset mentah  
 - `pizza_sales_raw.xlsx` → File analisis & dashboard (Pivot Table & Chart)  
 - `presentation/` → Presentasi hasil analisis (PPT)  
